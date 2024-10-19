@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'kitchen-docker', '>= 2.9'
+gem 'kitchen-docker', '>= 2.11.0'
 gem 'kitchen-inspec', '>= 2.2.1'
 gem 'kitchen-salt', '>= 0.6.0'
 gem 'rspec-retry'
